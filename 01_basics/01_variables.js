@@ -16,3 +16,7 @@ console.table([accountID, accountEmail, acccountPassword, accountCity, accountSt
 
 
 
+
+// Prefer not to use var
+// because of issue in block scope and functional scope and functional
+
